@@ -130,7 +130,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 - [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web Administration GUI - use your PostgreSQL databases from anywhere, with rich, lightning-fast AJAX web interface.
 - [Query.me](https://query.me) - Collaborative SQL editor in Notebook format. Let's you reference query results using JINJA, visualize data, and schedule runs and exports.
-
+- [SQLite Hub](https://github.com/oliverjessner/sqlite-hub) - Modern database management for SQLite as a web app.
 
 ## CLI
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Connect to a database for issue SQL commands within IPython or IPython Notebook.
